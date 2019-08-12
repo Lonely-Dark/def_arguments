@@ -1,4 +1,6 @@
- def mult(number):
- 	print(number * 2)
+#Python 3.7.3
+#Make by Lonely-Dark
 
- mult(2s)
+def mult(number):
+ 	return number*2
+print(mult(2))
